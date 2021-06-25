@@ -7,7 +7,7 @@ from pycaret.classification import load_model, predict_model
   
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
-st.sidebar.header('**Streamlit CV - Cúrriculo Interativo**') 
+st.sidebar.header('**Streamlit CV - Currículo Interativo**') 
  
 
 opcoes = ['Boas-vindas', 
